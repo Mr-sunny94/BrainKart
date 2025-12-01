@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "cd 'E-Commerce Store' && npm run dev",
+    "build": "cd 'E-Commerce Store' && npm run build",
+    "preview": "cd 'E-Commerce Store' && npm run preview",
+    "lint": "cd 'E-Commerce Store' && npm run lint"
+  },
+  "dependencies": {
+    "firebase": "^12.6.0",
+    "lucide-react": "^0.555.0"
+  }
+}
